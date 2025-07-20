@@ -1,4 +1,4 @@
-# Password generator - TASK 3
+# Password generator 
 import random
 import string
 
